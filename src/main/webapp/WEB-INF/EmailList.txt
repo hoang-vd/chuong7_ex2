@@ -1,0 +1,3 @@
+aaa@gmail.com|aaa|bbb
+aaa@gmail.com|www|gg
+aaaa@gmail.com|aaa|aa
